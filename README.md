@@ -1,4 +1,4 @@
-### Here is how I calculated the predicted weights using the formula CriticalThink gave me (based on the WGS84 model)
+### Here is how I calculated the predicted weights using the formula Critical Think gave me (based on the WGS84 model)
 
 ```python wgs84.py```
 
